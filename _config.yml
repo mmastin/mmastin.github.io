@@ -5,8 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://mmastin.github.io"
-# baseurl:""
-# only need baseurl if using sub-domain
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -25,12 +24,11 @@ description: A collection of Data Science projects
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
+  Sources:
+    - HealthData.gov: "https://healthdata.gov/"
+    - Pew: "https://www.pewinternet.org/datasets/"
 #     - GitHub Pages: "https://pages.github.com/"
 #   Author's home: "http://deanattali.com"
-# Add some links to core pages
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,26 +42,15 @@ avatar: "/img/FullSizeRender.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a5cea3"
+navbar-col: "#bee5ca"
 navbar-text-col: "#404040"
-navbar-children-col: "#bee5ca"
+navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#d9e5be"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-
-# original colors
-# navbar-col: "#F5F5F5"
-# navbar-text-col: "#404040"
-# navbar-children-col: "#F5F5F5"
-# page-col: "#FFFFFF"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#F5F5F5"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -86,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "matthew.mastin@gmail.com"
-#   facebook: 
+#   facebook: daattali
   github: mmastin
 #   twitter: mattmastin
 #  reddit: yourname
 #  google-plus: +DeanAttali
- linkedin: matt-mastin
+#  linkedin: matt-mastin
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
