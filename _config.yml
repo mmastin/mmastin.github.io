@@ -4,8 +4,9 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
+url: "https://mmastin.github.io"
 baseurl: ""
+# only need baseurl if using sub-domain
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,21 +15,22 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Matt Mastin website
+title: Matt Mastin
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A collection of Data Science projects
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+#   Resources:
+#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#     - Learn markdown: "http://www.markdowntutorial.com/"
+#     - GitHub Pages: "https://pages.github.com/"
+#   Author's home: "http://deanattali.com"
+# Add some links to core pages
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Matt Mastin
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,7 +77,7 @@ social-network-links:
   email: "matthew.mastin@gmail.com"
 #   facebook: 
   github: mmastin
-  twitter: mattmastin
+#   twitter: mattmastin
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
