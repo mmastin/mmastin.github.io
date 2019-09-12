@@ -10,8 +10,10 @@ Lambda School Data Science student. Avid reader. Amateur chef. Mediocre snowboar
 
 ## What I'm interested in
 
-- Analysis
 - Python
-- Prediction
+- Deep Learning
+- Natural Language Processing
+- Neural Networks
+- Predictive Modeling
 - Storytelling
-- Visualization
+- Data Visualization
