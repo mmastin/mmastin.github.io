@@ -5,7 +5,7 @@ subtitle: Better Reads
 gh-repo: better-reads/BR-Data-Science
 gh-badge: [star, fork, follow]
 tags: [data, natural language processing, AWS, books]
-image: /img/br_mockup.png
+image: /img/br_cover.png
 comments: false
 ---
 
