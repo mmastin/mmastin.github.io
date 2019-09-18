@@ -4,17 +4,24 @@ title: About me
 subtitle: Data Science student
 ---
 
-## What I do
+## Background
 
-Lambda School Data Science student. Avid reader. Amateur chef. Mediocre snowboarder.
+[Lambda School Data Science student](https://lambdaschool.com/courses/data-science).
+
+University of North Carolina at Chapel Hill, Bachelor of Science in Business Administration.
+
+Avid chef, cyclist, reader, snowboarder, scuba diver.
 
 ## What I'm interested in
 
 
 - Python
+- AWS
+- Data Visualization
+- Database Architecture
 - Deep Learning
 - Natural Language Processing
 - Neural Networks
 - Predictive Modeling
 - Storytelling
-- Data Visualization
+
